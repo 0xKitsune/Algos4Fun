@@ -18,7 +18,7 @@
 
 ## About The Project
 
-This repository contains a collection of algorithms and solutions to excercises from codewars. Feel free to take a look a the directory to jump to any problem or solution.
+This repository contains a collection of algorithms and solutions to exercises from codewars. Feel free to take a look a the directory to jump to any problem or solution.
 
 <!-- TABLE OF CONTENTS -->
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
